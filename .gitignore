@@ -24,10 +24,11 @@ var/
 *.torbrowser 
 *.torproject 
 *.tails OS linux 
-*Privecy
-*Privete  
-* log Privete
-# log-id Privete
+*Privacy
+*Private  
+* log Privacy
+# log-id Privacy 
+#log/log-id Privacy/Private
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -45,7 +46,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-
+.root
 # Translations
 *.mo
 *.pot
