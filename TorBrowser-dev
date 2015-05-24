@@ -58,7 +58,7 @@ coverage.xml
 *Privacy
 # Sphinx documentation
 docs/_build/
-#debian 8.0 8.1 8.5 8.7 8.9 9.0 linux
+#Privacy/tor/porjecttor
 # PyBuilder
 target/
 docs open torproject
