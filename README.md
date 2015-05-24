@@ -1,3 +1,3 @@
 # TorBrowser-dev 
-# TorBrowser-Privecy 
+# TorBrowser-Privacy 
 # TorBrowser-Private
