@@ -58,7 +58,7 @@ coverage.xml
 *Privacy
 # Sphinx documentation
 docs/_build/
-#Privacy/tor/porjecttor
+#Privacy/tor/ProjectTor
 # PyBuilder
 target/
 docs open torproject
